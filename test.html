@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <title>API</title>
+    <style>
+      .container {
+        width: 70%;
+        margin: 10px auto;
+      }
+      .content {
+        width: 100%;
+        margin: 10px auto;
+        text-align: center;
+      }
+      h1 {
+        text-align: center;
+      }
+      .movies {
+        width: 100%;
+        border: 1px solid red;
+        border-collapse: collapse;
+        font-size: 24px;
+      }
+      th {
+        border: 1px solid black;
+        width: 100%;
+      }
+
+      td {
+        border: 1px solid blue;
+        text-align: center;
+      }
+
+      .edit-btn {
+        color: green;
+      }
+      .delete-btn {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Add series and seasons</h1>
+
+      <div class="content">
+        <form class="form">
+          <input id="title" type="text" placeholder="title" name="title" />
+          <input id="season" type="text" placeholder="season" name="season" />
+          <input type="submit" value="Add" />
+        </form>
+      </div>
+
+      <table class="movies"></table>
+    </div>
+    <script src="./test.js"></script>
+  </body>
+</html>
