@@ -1,0 +1,50 @@
+{
+    "datas":[
+        {
+            "id":1,
+            "picture":"https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1380%2FComic-Books.png&w=256&q=75",
+            "text":"Comic books"
+        },
+        {
+            "id":2,
+            "picture":"https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1378%2FScience-Fiction.png&w=256&q=75",
+            "text":"Science Fiction"
+        },
+        {
+            "id":3,
+            "picture":"https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1377%2FLiterature.png&w=256&q=75",
+            "text":"Literature"
+        },
+        {
+            "id":4,
+            "picture":"https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1379%2FChildren-Literature.png&w=256&q=75",
+            "text":"Children's Literature"
+        },
+        {
+            "id":5,
+            "picture":"https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1381%2FHorror-Books.png&w=256&q=75",
+            "text":"Horror Fiction"
+        },
+        {
+            "id":6,
+            "picture":"https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1382%2FNovel.png&w=640&q=75",
+            "text":"Novels"
+        },
+        {
+            "id":7,
+            "picture":"https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1383%2FRomantic-Books.png&w=640&q=75",
+            "text":"Romantic Poetry"
+        },
+        {
+            "id":8,
+            "picture":"https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1383%2FRomantic-Books.png&w=640&q=75",
+            "text":"Comic books"
+        },
+        {
+            "id":9,
+            "picture":"https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1384%2FThriller.png&w=256&q=75",
+            "text":"Thriller"
+        }
+      
+    ]
+}
