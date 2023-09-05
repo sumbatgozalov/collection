@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+// body{
+//     // background-color: red;
+// }
+img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  border-radius: 10px;
+  margin-bottom: 7px;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  .heading{
+    padding-left:30px ;
+  }
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    .card {
+      width: 100%;
+      padding: 20px;
+      border-radius: 10px;
+      h1{margin-bottom: 7px;}
+      h3{
+        color: grey;
+        margin-bottom: 7px;
+      }
+      .prices{display: flex;
+        gap: 10px;
+        
+
+        .first{color: rgb(255, 157, 0);}
+        .second{color: rgb(87, 92, 87);
+        }
+        .third{color: green;
+        text-decoration: line-through;}
+      }
+      @media (min-width:600px){
+        width:50%
+
+      }
+      @media (min-width:883px){
+        width:calc(100%/3)
+      }
+      @media (min-width:1024px){
+        width:calc(100%/4)
+      }
+      @media (min-width:1400px){
+        width:calc(100%/5)
+      }
+    }
+  }
+}

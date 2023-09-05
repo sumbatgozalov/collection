@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  -o-object-fit: contain;
+     object-fit: contain;
+  border-radius: 10px;
+  margin-bottom: 7px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.container .heading {
+  padding-left: 30px;
+}
+.container .cards {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+.container .cards .card {
+  width: 100%;
+  padding: 20px;
+  border-radius: 10px;
+}
+.container .cards .card h1 {
+  margin-bottom: 7px;
+}
+.container .cards .card h3 {
+  color: grey;
+  margin-bottom: 7px;
+}
+.container .cards .card .prices {
+  display: flex;
+  gap: 10px;
+}
+.container .cards .card .prices .first {
+  color: rgb(255, 157, 0);
+}
+.container .cards .card .prices .second {
+  color: rgb(87, 92, 87);
+}
+.container .cards .card .prices .third {
+  color: green;
+  text-decoration: line-through;
+}
+@media (min-width: 600px) {
+  .container .cards .card {
+    width: 50%;
+  }
+}
+@media (min-width: 883px) {
+  .container .cards .card {
+    width: 33.3333333333%;
+  }
+}
+@media (min-width: 1024px) {
+  .container .cards .card {
+    width: 25%;
+  }
+}
+@media (min-width: 1400px) {
+  .container .cards .card {
+    width: 20%;
+  }
+}/*# sourceMappingURL=wrap.css.map */

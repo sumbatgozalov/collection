@@ -1,0 +1,104 @@
+{
+    "cards": [
+      {
+        "id": 1,
+        "img": "/public/images/Children-Literature.webp",
+        "name": "The children story",
+        "author": "Brandon T. Trigg",
+        "price": "$220.00",
+        "discountPercent": "(Save 12%)",
+        "oldPrice": "$250.00",
+        "isDiscount": true 
+      },
+      {
+        "id": 2,
+        "img": "/public/images/Children-Literature-1.webp",
+        "name": "The children story",
+        "author": "Brandon T. Trigg",
+        "price": "$220.00",
+        "discountPercent": "",
+        "oldPrice": "",
+        "isDiscount": true 
+      },
+      {
+        "id": 3,
+        "img": "/public/images/Children-Literature-2.webp",
+        "name": "The children story",
+        "author": "Brandon T. Trigg",
+        "price": "$220.00",
+        "discountPercent": "(Save 12%)",
+        "oldPrice": "$250.00",
+        "isDiscount": true 
+      },
+      {
+        "id": 4,
+        "img": "/public/images/Children-Literature-3.webp",
+        "name": "The children story",
+        "author": "Brandon T. Trigg",
+        "price": "$220.00",
+        "discountPercent": "(Save 12%)",
+        "oldPrice": "$250.00",
+        "isDiscount": true 
+      },
+      {
+        "id": 5,
+        "img": "/public/images/Children-Literature-4.webp",
+        "name": "The children story",
+        "author": "Brandon T. Trigg",
+        "price": "$220.00",
+        "discountPercent": "(Save 12%)",
+        "oldPrice": "$250.00",
+        "isDiscount": true 
+      },
+      {
+        "id": 6,
+        "img": "/public/images/Children-Literature-5.webp",
+        "name": "The children story",
+        "author": "Brandon T. Trigg",
+        "price": "$220.00",
+        "discountPercent": "(Save 12%)",
+        "oldPrice": "$250.00",
+        "isDiscount": true 
+      },
+      {
+        "id": 7,
+        "img": "/public/images/Children-Literature-6.webp",
+        "name": "The children story",
+        "author": "Brandon T. Trigg",
+        "price": "$220.00",
+        "discountPercent": "(Save 12%)",
+        "oldPrice": "$250.00",
+        "isDiscount": true 
+      },
+      {
+        "id": 8,
+        "img": "/public/images/Children-Literature-7.webp",
+        "name": "The children story",
+        "author": "Brandon T. Trigg",
+        "price": "$220.00",
+        "discountPercent": "(Save 12%)",
+        "oldPrice": "$250.00",
+        "isDiscount": true 
+      },
+      {
+        "id": 9,
+        "img": "/public/images/Children-Literature-4.webp",
+        "name": "The children story",
+        "author": "Brandon T. Trigg",
+        "price": "$220.00",
+        "discountPercent": "(Save 12%)",
+        "oldPrice": "$250.00",
+        "isDiscount": true 
+      },
+      {
+        "id": 10,
+        "img": "/public/images/Children-Literature-6.webp",
+        "name": "The children story",
+        "author": "Brandon T. Trigg",
+        "price": "$220.00",
+        "discountPercent": "(Save 12%)",
+        "oldPrice": "$250.00",
+        "isDiscount": true 
+      }
+    ]
+  }
